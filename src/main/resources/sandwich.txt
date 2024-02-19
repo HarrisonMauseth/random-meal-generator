@@ -1,0 +1,6 @@
+Bread|Naan Rounds|Tortilla|Pretzel Bun|Everything Ciabatta Bun
+Main|Pepperoni|Pastrami
+Cheese|Gouda|Sweet Heat Feta|Wensleydale & Cranberries|Dill Havarti|Pepperjack|Cream Cheese
+Roughage|None|Roll Twice|Jalapenos|Banana Pepppers|Pickles|Carrot|Cucumber|Yellow Pepper|Red Onion
+Sauce|None|Roll Twice|Honey Mustard|Mayonnaise|Ranch|Green Sriracha|Cholula|Parmesan Garlic|BBQ Sauce
+Wild Magic|None|Roll Twice|Peanut Butter|Jalapeno Jelly|Red Sriracha|Peanut Butter|Soy Sauce|Buffalo Sauce|Air Fried|Cavender’s Greek Seasoning|Cajun Seasoning|Wasabi|Gochujang
