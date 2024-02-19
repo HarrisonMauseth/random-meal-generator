@@ -1,4 +1,4 @@
-# Random Meal Generator Readme
+# Random Meal Generator Overview
 Are you like me and have food in your fridge that is about to go bad, a need to practice what you have been learning for an end-of-module assessment in a software development bootcamp, and a lack of desire to make a decision on what to eat today? I might not be able to help you with the practice side of things, but I am happy to share with you my personal project.
 
 Inspired by Jake Pauwels's "Roll for Sandwich" TikTok series and a love for TTRPGs, this Java application was started a way for me to gamify the early stages of my journey into software development. Not only do I get to practice what I am learning, I get to have fun while doing it.
